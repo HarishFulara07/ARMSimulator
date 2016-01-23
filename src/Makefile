@@ -3,3 +3,4 @@ all:
 
 clean:
 	rm -f *.o *~ *.bak ../bin/myARMSim
+
