@@ -1,4 +1,4 @@
-ARM Simulator
+#ARM Simulator
 
 1. Clone this repository or download it as a zip file.
 2. Open linux terminal and go to src folder.
